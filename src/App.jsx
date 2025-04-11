@@ -6,7 +6,7 @@ import ResetPassword from './ResetPassword';
 import TakeEmail from './TakeEmail';
 import AdminManageArticles from './Article';
 import ArticleManagement from './ArticleManagement';
-import AdminSeatBooking from './AdminseatBooking';
+import AdminSeatBooking from './AdminSeatBooking';
 
 const App = () => {
   return (
